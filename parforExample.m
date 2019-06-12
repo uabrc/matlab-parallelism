@@ -1,6 +1,6 @@
 % Testing number of prime numbers in a given range
 
-final=10^7;        %upper limit
+final=10^6;        %upper limit
 close all
 %clear all
 tic
